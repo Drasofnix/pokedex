@@ -1,0 +1,15 @@
+{
+  "expo": {
+  "name": "Pokedex",
+  "icon": "./src/image/pokeball.png",
+  "version": "1.0.0",
+  "slug": "your-app-slug",
+  "sdkVersion": "17.0.0",
+  "ios": {
+    "bundleIdentifier": "com.Angel.Zarate"
+  },
+  "android": {
+    "package": "com.Angel.Zarate"
+  }
+}
+} 
