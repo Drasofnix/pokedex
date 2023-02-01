@@ -1,15 +1,20 @@
 {
   "expo": {
-  "name": "Pokedex",
-  "icon": "./src/image/pokeball.png",
-  "version": "1.0.0",
-  "slug": "your-app-slug",
-  "sdkVersion": "17.0.0",
-  "ios": {
-    "bundleIdentifier": "com.Angel.Zarate"
-  },
-  "android": {
-    "package": "com.Angel.Zarate"
+    "name": "Pokedex",
+    "icon": "./src/image/pokeball.png",
+    "version": "1.0.0",
+    "slug": "your-app-slug",
+    "sdkVersion": "17.0.0",
+    "ios": {
+      "bundleIdentifier": "com.Angel.Zarate"
+    },
+    "android": {
+      "package": "com.Angel.Zarate"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2382418c-e21c-4472-a08a-d07756948c9a"
+      }
+    }
   }
 }
-} 
